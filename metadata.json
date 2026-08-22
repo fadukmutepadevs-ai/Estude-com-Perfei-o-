@@ -1,0 +1,6 @@
+{
+  "name": "Estude Com Perfeição",
+  "description": "Plataforma simples, leve e rápida de informações para estudantes em Moçambique com exames de admissão, bolsas de estudo, cursos e oportunidades acadêmicas.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
